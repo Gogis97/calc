@@ -1,0 +1,18 @@
+c:\users\pe3\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+c:\users\pe3\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+C:\Users\pe3\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\MyCalculator.exe.config
+C:\Users\pe3\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\MyCalculator.exe
+C:\Users\pe3\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\MyCalculator.pdb
+C:\Users\pe3\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Calculator.resources
+C:\Users\pe3\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\MyCalculator.Properties.Resources.resources
+C:\Users\pe3\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\MyCalculator.exe
+C:\Users\pe3\documents\visual studio 2017\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\MyCalculator.pdb
+D:\c sharp\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\MyCalculator.exe.config
+D:\c sharp\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\MyCalculator.exe
+D:\c sharp\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\MyCalculator.pdb
+D:\c sharp\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+D:\c sharp\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Calculator.resources
+D:\c sharp\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\MyCalculator.Properties.Resources.resources
+D:\c sharp\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+D:\c sharp\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\MyCalculator.exe
+D:\c sharp\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\MyCalculator.pdb
